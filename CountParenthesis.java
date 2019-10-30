@@ -8,9 +8,8 @@ public class CountParenthesis {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		// A string that holds the directory path to the folder containing your .java files (please enter your own). 
-		// My Directory: C:\Users\shane\OneDrive\Desktop\Eclipse and Code\Workplace\Java Programming\src
 		// double \ slashed may be added
-		String filename = "C:\\Users\\shane\\OneDrive\\Desktop\\Eclipse and Code\\Workplace\\Java Programming\\src\\";
+		String filename = "C:\\Users\\ ...";
 		System.out.println("Enter your desired .java file (not case sensitive and do not include .java): ");
 		// Scanner to receive the name of the .java file (not case sensitive)
 		 Scanner a = new Scanner(System.in);
